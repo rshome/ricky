@@ -1,0 +1,137 @@
+Microsoft Dynamics 365 Error Report Contents
+
+<CrmScriptErrorReport>
+  <ReportVersion>1.0</ReportVersion>
+  <ScriptErrorDetails>
+   <Message>Unable to get property 'contentWindow' of undefined or null reference</Message>
+   <Line>2</Line>
+   <URL></URL>
+   <PageURL>/form/page.aspx?lcid=1033&themeId=f499443d-2082-4938-8842-e7ee62de9a23&tstamp=850706&updateTimeStamp=636296006810933378&userts=131401756283679483&ver=373064622#_gridType=112&create=False&etc=112&id=%7bF742387E-3441-E711-80CF-002248017B82%7d&opened=grid&pagemode=iframe&process=53ecfba0-cecd-4367-a15c-155cf6c97330&processts=612609&rskey=%7bAA89B1CF-DEA4-E611-80D2-001DD8B71C2F%7d&theme=Outlook15White&counter=1495708363111</PageURL>
+   <Function>anonymousr:Unabletogetproperty'contentWindow'ofundefinedornullreference</Function>
+   <FunctionRaw>TypeError: Unable to get property 'contentWindow' of undefined or null reference</FunctionRaw>
+   <CallStack>
+    <Function>anonymousr:Unabletogetproperty'contentWindow'ofundefinedornullreference</Function>
+   </CallStack>
+  </ScriptErrorDetails>
+  <ClientInformation>
+   <BrowserUserAgent>Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; .NET4.0E; .NET4.0C; InfoPath.3; rv:11.0) like Gecko</BrowserUserAgent>
+   <BrowserLanguage>en-GB</BrowserLanguage>
+   <SystemLanguage>en-GB</SystemLanguage>
+   <UserLanguage>en-GB</UserLanguage>
+   <ScreenResolution>1750x993</ScreenResolution>
+   <ClientName>UnifiedServiceDesk</ClientName>
+   <ClienState>Online</ClienState>
+   <ClientTime>2017-05-25T10:34:25</ClientTime>
+  </ClientInformation>
+  <ServerInformation>
+    <OrgLanguage>1033</OrgLanguage>
+    <OrgCulture>2057</OrgCulture>
+    <UserLanguage>1033</UserLanguage>
+    <UserCulture>2057</UserCulture>
+    <OrgID>{16F7D6DC-A831-E711-80CE-002248017A67}</OrgID>
+    <UserID>{25EDC3AB-6936-E711-80CD-002248017B82}</UserID>
+    <CRMVersion>8.2.0.749</CRMVersion>
+  </ServerInformation>
+</CrmScriptErrorReport>
+
+<CrmScriptErrorReport>
+  <ReportVersion>1.0</ReportVersion>
+  <ScriptErrorDetails>
+   <Message>Unable to get property 'contentWindow' of undefined or null reference</Message>
+   <Line>2</Line>
+   <URL></URL>
+   <PageURL>/form/page.aspx?lcid=1033&themeId=f499443d-2082-4938-8842-e7ee62de9a23&tstamp=850706&updateTimeStamp=636296006810933378&userts=131401756283679483&ver=373064622#_gridType=112&create=False&etc=112&id=%7bF742387E-3441-E711-80CF-002248017B82%7d&opened=grid&pagemode=iframe&process=53ecfba0-cecd-4367-a15c-155cf6c97330&processts=612609&rskey=%7bAA89B1CF-DEA4-E611-80D2-001DD8B71C2F%7d&theme=Outlook15White&counter=1495708363111</PageURL>
+   <Function>anonymousr:Unabletogetproperty'contentWindow'ofundefinedornullreference</Function>
+   <FunctionRaw>TypeError: Unable to get property 'contentWindow' of undefined or null reference</FunctionRaw>
+   <CallStack>
+    <Function>anonymousr:Unabletogetproperty'contentWindow'ofundefinedornullreference</Function>
+   </CallStack>
+  </ScriptErrorDetails>
+  <ClientInformation>
+   <BrowserUserAgent>Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; .NET4.0E; .NET4.0C; InfoPath.3; rv:11.0) like Gecko</BrowserUserAgent>
+   <BrowserLanguage>en-GB</BrowserLanguage>
+   <SystemLanguage>en-GB</SystemLanguage>
+   <UserLanguage>en-GB</UserLanguage>
+   <ScreenResolution>1750x993</ScreenResolution>
+   <ClientName>UnifiedServiceDesk</ClientName>
+   <ClienState>Online</ClienState>
+   <ClientTime>2017-05-25T10:34:25</ClientTime>
+  </ClientInformation>
+  <ServerInformation>
+    <OrgLanguage>1033</OrgLanguage>
+    <OrgCulture>2057</OrgCulture>
+    <UserLanguage>1033</UserLanguage>
+    <UserCulture>2057</UserCulture>
+    <OrgID>{16F7D6DC-A831-E711-80CE-002248017A67}</OrgID>
+    <UserID>{25EDC3AB-6936-E711-80CD-002248017B82}</UserID>
+    <CRMVersion>8.2.0.749</CRMVersion>
+  </ServerInformation>
+</CrmScriptErrorReport>
+
+<CrmScriptErrorReport>
+  <ReportVersion>1.0</ReportVersion>
+  <ScriptErrorDetails>
+   <Message>Unable to get property 'contentWindow' of undefined or null reference</Message>
+   <Line>2</Line>
+   <URL></URL>
+   <PageURL>/form/page.aspx?lcid=1033&themeId=f499443d-2082-4938-8842-e7ee62de9a23&tstamp=850706&updateTimeStamp=636296006810933378&userts=131401756283679483&ver=373064622#_gridType=112&create=False&etc=112&id=%7bF742387E-3441-E711-80CF-002248017B82%7d&opened=grid&pagemode=iframe&process=53ecfba0-cecd-4367-a15c-155cf6c97330&processts=612609&rskey=%7bAA89B1CF-DEA4-E611-80D2-001DD8B71C2F%7d&theme=Outlook15White&counter=1495708363111</PageURL>
+   <Function>anonymousr:Unabletogetproperty'contentWindow'ofundefinedornullreference</Function>
+   <FunctionRaw>TypeError: Unable to get property 'contentWindow' of undefined or null reference</FunctionRaw>
+   <CallStack>
+    <Function>anonymousr:Unabletogetproperty'contentWindow'ofundefinedornullreference</Function>
+   </CallStack>
+  </ScriptErrorDetails>
+  <ClientInformation>
+   <BrowserUserAgent>Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; .NET4.0E; .NET4.0C; InfoPath.3; rv:11.0) like Gecko</BrowserUserAgent>
+   <BrowserLanguage>en-GB</BrowserLanguage>
+   <SystemLanguage>en-GB</SystemLanguage>
+   <UserLanguage>en-GB</UserLanguage>
+   <ScreenResolution>1750x993</ScreenResolution>
+   <ClientName>UnifiedServiceDesk</ClientName>
+   <ClienState>Online</ClienState>
+   <ClientTime>2017-05-25T10:34:25</ClientTime>
+  </ClientInformation>
+  <ServerInformation>
+    <OrgLanguage>1033</OrgLanguage>
+    <OrgCulture>2057</OrgCulture>
+    <UserLanguage>1033</UserLanguage>
+    <UserCulture>2057</UserCulture>
+    <OrgID>{16F7D6DC-A831-E711-80CE-002248017A67}</OrgID>
+    <UserID>{25EDC3AB-6936-E711-80CD-002248017B82}</UserID>
+    <CRMVersion>8.2.0.749</CRMVersion>
+  </ServerInformation>
+</CrmScriptErrorReport>
+
+<CrmScriptErrorReport>
+  <ReportVersion>1.0</ReportVersion>
+  <ScriptErrorDetails>
+   <Message>Unable to get property 'contentWindow' of undefined or null reference</Message>
+   <Line>2</Line>
+   <URL></URL>
+   <PageURL>/form/page.aspx?lcid=1033&themeId=f499443d-2082-4938-8842-e7ee62de9a23&tstamp=850706&updateTimeStamp=636296006810933378&userts=131401756283679483&ver=373064622#_gridType=112&create=False&etc=112&id=%7bF742387E-3441-E711-80CF-002248017B82%7d&opened=grid&pagemode=iframe&process=53ecfba0-cecd-4367-a15c-155cf6c97330&processts=612609&rskey=%7bAA89B1CF-DEA4-E611-80D2-001DD8B71C2F%7d&theme=Outlook15White&counter=1495708363111</PageURL>
+   <Function>anonymousr:Unabletogetproperty'contentWindow'ofundefinedornullreference</Function>
+   <FunctionRaw>TypeError: Unable to get property 'contentWindow' of undefined or null reference</FunctionRaw>
+   <CallStack>
+    <Function>anonymousr:Unabletogetproperty'contentWindow'ofundefinedornullreference</Function>
+   </CallStack>
+  </ScriptErrorDetails>
+  <ClientInformation>
+   <BrowserUserAgent>Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; .NET4.0E; .NET4.0C; InfoPath.3; rv:11.0) like Gecko</BrowserUserAgent>
+   <BrowserLanguage>en-GB</BrowserLanguage>
+   <SystemLanguage>en-GB</SystemLanguage>
+   <UserLanguage>en-GB</UserLanguage>
+   <ScreenResolution>1750x993</ScreenResolution>
+   <ClientName>UnifiedServiceDesk</ClientName>
+   <ClienState>Online</ClienState>
+   <ClientTime>2017-05-25T10:34:25</ClientTime>
+  </ClientInformation>
+  <ServerInformation>
+    <OrgLanguage>1033</OrgLanguage>
+    <OrgCulture>2057</OrgCulture>
+    <UserLanguage>1033</UserLanguage>
+    <UserCulture>2057</UserCulture>
+    <OrgID>{16F7D6DC-A831-E711-80CE-002248017A67}</OrgID>
+    <UserID>{25EDC3AB-6936-E711-80CD-002248017B82}</UserID>
+    <CRMVersion>8.2.0.749</CRMVersion>
+  </ServerInformation>
+</CrmScriptErrorReport>
