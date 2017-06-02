@@ -1,0 +1,32 @@
+Exception: Message: System.Web.Services.Protocols.SoapException: Server was unable to process request. ---> System.Exception: Expected 1 rows, but got 0 from sql: SELECT ACCDomain FROM StandardUKStatsClassification WHERE Id = '100721044000000061097891'
+Error in sql: UPDATE UKStatsClassification SET UKStatsClassificationStdClassificationRId = '100721044000000061097891', Attempt = 'N' WHERE Id = '100621044000000000477306'
+Exception occurred in db_cNDSTransportServer::SQL
+Exception caught in nce_ConnectionExecuteSQL.
+   at Niche.nce_fUtility.AssertNoError() in c:\project\current\client\ndsconnectexternalclr\nce_futility.cpp:line 38
+   at Niche.nce_cConnection.ExecuteSQL(String sql, Boolean failOnError) in c:\project\current\client\ndsconnectexternalclr\nce_cconnection.cpp:line 169
+   at Niche.nlf_cUpdateFunction.DoExecuteInsertUpdate(XmlDocument d)
+   at Niche.nlf_cInsertUpdateFunction.DoExecute()
+   at Niche.nlf_cLoadableFunction.Execute(nce_cExternalConnection conn, String xmlParameters)
+   at Niche.LoadableFunctionCaller.CallLoadableFunctionInAppDomain(String dllName, String className, nce_cExternalConnection conn, String xmlParameters) in c:\project\current\client\ndsconnectexternalclr\nce_floadablefunction.h:line 48
+   at Niche.ws_cNicheRMS.ExecuteIfAllowed(nce_cConnection connection, String xml) in c:\project\current\Interfaces\WebServiceLibrary\ws_cNicheRMS.cs:line 448
+   at Niche.ws_cNicheRMS.ExecuteSI(String sessionId, String xml) in c:\project\current\Interfaces\WebServiceLibrary\ws_cNicheRMS.cs:line 146
+   at Niche.NicheRMS.ExecuteSI(String sessionId, String xml) in c:\project\current\WebServices\NicheRMS\NicheRMS.asmx.cs:line 297
+   --- End of inner exception stack trace ---, StackTrace: 
+Server stack trace: 
+   at System.ServiceModel.Channels.ServiceChannel.HandleReply(ProxyOperationRuntime operation, ProxyRpc& rpc)
+   at System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs, TimeSpan timeout)
+   at System.ServiceModel.Channels.ServiceChannelProxy.InvokeService(IMethodCallMessage methodCall, ProxyOperationRuntime operation)
+   at System.ServiceModel.Channels.ServiceChannelProxy.Invoke(IMessage message)
+
+Exception rethrown at [0]: 
+   at System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at TVPHC.Integration.DSM.ResourceAccess.NicheRMS.NicheRMSSoap.ExecuteSI(String sessionId, String xml)
+   at System.Threading.Tasks.Task`1.InnerInvoke()
+   at System.Threading.Tasks.Task.Execute()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at TVPHC.Integration.Common.Orchestration.OperationRetryOrchestrator.<ExecuteQuery>d__7`1.MoveNext()
+. Aborting operation
